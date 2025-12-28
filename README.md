@@ -10,7 +10,8 @@ I enjoy building end-to-end analytics solutions — from data extraction and mod
 - 👯 I’m open to collaborating on **data analytics and BI projects**
 - 🤔 I’m interested in **real-world business problems and data-driven solutions**
 - 💬 Ask me about **SQL, data analysis, dashboards, and data modeling**
-- 📫 How to reach me: **[LinkedIn]((https://www.linkedin.com/in/oybek-alikulov-16873a28b?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BkOnvC1XhQ8CLShBbNHN6lA%3D%3D)) | GitHub**
+- 📫📫 How to reach me: **LinkedIn:** [oybek-alikulov](https://www.linkedin.com/in/oybek-alikulov-16873a28b/), **GitHub:** [alikulovoybek](https://github.com/alikulovoybek)
+
 
 ### 🛠️ Tools & Skills
 - **SQL** (Data Warehouse, ETL, Data Modeling)
@@ -20,4 +21,4 @@ I enjoy building end-to-end analytics solutions — from data extraction and mod
 
 ### 📌 Featured Projects
 - **SQL Data Analytics Project (ETL, EDA, Advanced Analytics)**
-- **Card Transactions Analytics Project (SQL + Power BI)**
+- **Card Transactions Analytics Project (SQL + Power BI)****Card Transactions Analytics Project (SQL + Power BI)**
