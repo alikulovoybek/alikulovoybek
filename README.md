@@ -21,4 +21,4 @@ I enjoy building end-to-end analytics solutions — from data extraction and mod
 
 ### 📌 Featured Projects
 - **SQL Data Analytics Project (ETL, EDA, Advanced Analytics)**
-- **Card Transactions Analytics Project (SQL + Power BI)****Card Transactions Analytics Project (SQL + Power BI)**
+- **Card Transactions Analytics Project (SQL + Power BI)**
