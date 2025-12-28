@@ -10,7 +10,7 @@ I enjoy building end-to-end analytics solutions — from data extraction and mod
 - 👯 I’m open to collaborating on **data analytics and BI projects**
 - 🤔 I’m interested in **real-world business problems and data-driven solutions**
 - 💬 Ask me about **SQL, data analysis, dashboards, and data modeling**
-- 📫📫 How to reach me: **LinkedIn:** [oybek-alikulov](https://www.linkedin.com/in/oybek-alikulov-16873a28b/), **GitHub:** [alikulovoybek](https://github.com/alikulovoybek)
+- 📫 How to reach me: **LinkedIn:** [oybek-alikulov](https://www.linkedin.com/in/oybek-alikulov-16873a28b/), **GitHub:** [alikulovoybek](https://github.com/alikulovoybek)
 
 
 ### 🛠️ Tools & Skills
